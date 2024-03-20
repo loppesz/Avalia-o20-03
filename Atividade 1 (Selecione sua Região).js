@@ -16,7 +16,7 @@ switch(op){
         console.log('Norte ');
         break;
     case 3:
-        console.log('leste ');
+        console.log('Leste ');
         break;
     case 4:
         console.log('Oeste');
